@@ -11,11 +11,11 @@ This C# code is designed to monitor various system resources on a Windows server
 - System.Management NuGet package
 ## Usage
 
-The program requires the user to specify the target server by modifying the server variable. The user can specify the server name or IP address as a string.
+The code requires the user to specify the target server by modifying the server variable. The user can specify the server name or IP address as a string.
 
 To run the code, execute the code in a C# environment such as Visual Studio or JetBrains Rider.
 
-The program will output the following information for the specified server:
+The code will output the following information for the specified server:
 
 - Memory usage (used, free, total, and percentage usage)
 - C drive usage (used, free, total, and percentage usage)
@@ -29,7 +29,7 @@ Instant CPU usage on example-server : 2.703%
 ```
 ## Troubleshooting
 
-If the program encounters an error, it will throw an exception with an error message that includes details of the issue encountered. Possible errors include issues with connecting to the specified server or issues with gathering resource usage information.
+If the code encounters an error, it will throw an exception with an error message that includes details of the issue encountered. Possible errors include issues with connecting to the specified server or issues with gathering resource usage information.
 
 To troubleshoot the code, try the following:
 
