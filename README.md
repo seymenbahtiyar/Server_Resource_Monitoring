@@ -39,7 +39,7 @@ To troubleshoot the program, try the following:
 ## Conclusion
 
 This C# program provides a simple and easy-to-use way to monitor various system resources on a Windows server. With its customizable server input and clear output information, it is a useful tool for system administrators and developers alike.
-## Lisans
+## License
 
 [MIT](https://github.com/seymenbahtiyar/Server_Resource_Monitoring/blob/main/LICENSE)
 
